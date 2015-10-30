@@ -23,3 +23,5 @@ bot.on('/help', function(msg, args) {
   });
 });
  
+
+bot.start();
